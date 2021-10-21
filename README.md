@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @Glauber329
-- 👀 I’m interested 
-- 🌱 I’m currently learning  JAVA
+G- 👀 I’m interested Glauber Nunes 
+- 🌱 I’m currently learning  Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
